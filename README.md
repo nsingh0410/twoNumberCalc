@@ -22,6 +22,8 @@ Select the type as "Basic Auth".
 Username = math
 Password = 123
 
+![image](https://user-images.githubusercontent.com/30139083/161738962-6e033bd2-3329-446e-8dda-a6ec7432fe02.png)
+
 To hit the endpoint you have to use local web server followed by api
 METHOD TYPE: GET
 192.168.33.49/api/twoNumberCalc
@@ -31,5 +33,8 @@ To add the input parameters and operations, add the following to the end of the 
 
 full url should look like this.
 192.168.33.49/api/twoNumberCalc?input1=2&input2=3&operation="+"
+
+![image](https://user-images.githubusercontent.com/30139083/161739085-5ba6ba0e-50c3-4eae-bb5a-aa7ee3eed480.png)
+
 
 That should be it enjoy :)
